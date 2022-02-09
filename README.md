@@ -1,0 +1,2 @@
+# kodluyoruzilkrepo
+my first repo
